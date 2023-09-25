@@ -7,7 +7,7 @@ body {
 #all-contents {
   max-width: 800px;
     margin: auto;
-    border-radius: 20px;
+    border-radius: 30px;
 }
 
 /* navigation menu */
@@ -17,6 +17,7 @@ nav {
     margin-bottom: 20px;
     display: flex;
     padding: 10px;
+    border-radius: 10px;
 }
 h1 {
     display: flex;
@@ -41,7 +42,7 @@ a {
 main {
     background: #ffffff;
     display: flex;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .sidebar {
     margin-right: 25px;
@@ -76,7 +77,7 @@ h2, h3 {
         #portfolio li {
             background: #ff74c5;
             padding: 10px;
-            border-radius: 10px;
+            border-radius: 30px;
             margin-bottom: 10px;
         }
 
