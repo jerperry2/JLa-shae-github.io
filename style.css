@@ -2,11 +2,12 @@ body {
     background: rgb(247, 110, 185);
     color: rgb(45, 45, 45);
     padding: 10px;
-    font-family: arial;
+    font-family: 'Times New Roman';
 }
 #all-contents {
   max-width: 800px;
     margin: auto;
+    border-radius: 20px;
 }
 
 /* navigation menu */
@@ -40,6 +41,7 @@ a {
 main {
     background: #ffffff;
     display: flex;
+    border-radius: 20px;
 }
 .sidebar {
     margin-right: 25px;
